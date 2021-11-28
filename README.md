@@ -1,4 +1,4 @@
-# playjs-nuxt-test
+# playjs-nuxt-template
 
 ## Build Setup
 
