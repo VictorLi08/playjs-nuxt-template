@@ -1,6 +1,8 @@
 # playjs-nuxt-template
 
-This is a simple Nuxt 2.15.7 project scaffolded using the CLI tool and adapted to suit play.js development.
+A simple Nuxt 2.15.7 project scaffolded using the CLI tool and adapted to suit play.js development.
+
+This template uses Tailwind.
 
 Some caveats:
 
