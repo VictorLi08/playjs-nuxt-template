@@ -2,7 +2,7 @@
 
 A simple Nuxt 2.15.7 project scaffolded using the CLI tool and adapted to suit play.js development.
 
-This template uses Tailwind.
+This template is completely vanilla; you must integrate a UI framework on your own. **Be warned, Tailwind compiles VERY SLOWLY;** use an alternative like Tachyons or a comparable lightweight CSS framework for optimum performance.
 
 Some caveats:
 
